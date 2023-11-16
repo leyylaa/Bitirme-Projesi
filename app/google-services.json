@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228953547282",
+    "project_id": "capstonee-e4a2b",
+    "storage_bucket": "capstonee-e4a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228953547282:android:5f1eb6af13dba51cd7eecb",
+        "android_client_info": {
+          "package_name": "com.leylayildiz.capstonee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqMheHZ-R83pVVLIATJoCrxZqAWu49nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
